@@ -1,0 +1,40 @@
+body{
+  font-family: serif;
+  font-size:110%;
+  background-color: #FCF7F8;
+}
+
+header {
+  text-align: center;
+  background-color: #343330;
+  color: #FCF7F8;
+  padding: 80px;
+}
+
+footer {
+  background-color: #343330;
+  text-align: center;
+  color: #FCF7F8;
+  margin-bottom: 30px;
+}
+
+#Sidebar {
+  background-color: #45462a;
+  width: 20%;
+  height: 20%;
+  padding: 1rem;
+}
+
+#headshot{
+  width: 15%;
+  height: 15%;
+  border-radius: 70%;
+  border: 3px solid #d1603d;
+  font-size: 120%;
+}
+
+section{
+  padding: 1rem;
+  margin: 1rem;
+  width: 80%;
+}
